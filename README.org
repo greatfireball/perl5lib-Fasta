@@ -3,4 +3,4 @@ leightweight, oo-stlye FASTA modules
 
 #+CAPTION: Status
 #+NAME:   fig:SED-HR4049
-[[https://travis-ci.org/greatfireball/perl5lib-Fasta.svg?branch=master][https://travis-ci.org/greatfireball/perl5lib-Fasta.svg?branch=master]]
+[[https://travis-ci.org/greatfireball/perl5lib-Fasta][https://travis-ci.org/greatfireball/perl5lib-Fasta.svg?branch=master]]
