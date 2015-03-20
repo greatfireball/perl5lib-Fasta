@@ -1,6 +1,11 @@
 language: perl
 perl:
   - "5.16"
+env: PERL_CPANM_OPT="--notest --force --skip-satisfied"
+before_install:
+  - "ls "
+install:
+  - "ls "
 notifications:
   recipients:
     - frank.foerster@biozentrum.uni-wuerzburg.de
